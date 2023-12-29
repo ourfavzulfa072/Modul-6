@@ -14,3 +14,6 @@ Model MobileNet tersedia dalam beberapa varian seperti MobileNHHVI, MobileNetV2,
 kurasi yang di dapatkan adalah 
 Accuracy = 1.000000  
 Loss = 0.000422
+
+
+![alt text](https://github.com/naufalfarras27/Modul-6/blob/main/output.png?raw=true)

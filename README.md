@@ -1,7 +1,7 @@
-# Modul-6
+# MODUL 6 - UAP
 
 # Model 
-menggunakan Model MobileNet, melakukan imagegenerator dengan melakukan 10 epcoh
+Sebelumnya menggunakan Model MobileNet melakukan imagegenerator dengan melakukan 10 epcoh
 
 # Mobilenet 
 MobileNet adalah sebuah arsitektur jaringan saraf tiruan (neural network) yang dirancang khusus untuk tugas-tugas penglihatan komputer pada perangkat motale dan aplikas dengan sumber daya terbatas Model ini dikembangkan oleh Google dan dirancang untuk memiliki ukuran yang kecil dan efisien, sehingga cocok untuk perangkat dengan daya komputasi yang terbatas seperti ponsel pinta
